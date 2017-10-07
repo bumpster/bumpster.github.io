@@ -1,5 +1,3 @@
-## Bumpster
-
 ### Team Members
 Bora Bardük
 
