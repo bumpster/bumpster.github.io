@@ -1,5 +1,5 @@
 ### Team Members
-Bora Bardük (21401029) bora.barduk@ug.bilkent.edu.tr 
+Bora Bardük (21401029) [bora.barduk@ug.bilkent.edu.tr](mailto:bora.barduk@ug.bilkent.edu.tr)
 
 Duygu Durmuş (21401178) duygu.durmus@ug.bilkent.edu.tr
 
